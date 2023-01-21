@@ -9,6 +9,10 @@ body {
   overflow: hidden;
 }
 
+.clear {
+  display: none;
+}
+
 .bg_image {
   background-image: url("image.jpg");
   background-repeat: no-repeat;
