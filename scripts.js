@@ -1,3 +1,7 @@
+var music = document.getElementById("music");
+music.play()
+music.pause()
+
 function pageLoaded() {
   document.querySelector("body").classList.remove("clear");
 }
@@ -15,3 +19,4 @@ document
     document.querySelector("body").classList.remove("bg_image");
     music.pause();
   });
+
