@@ -1,4 +1,5 @@
 var music = document.getElementById("music");
+music.loop = true; 
 music.play()
 music.pause()
 
