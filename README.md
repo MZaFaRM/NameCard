@@ -1,6 +1,6 @@
 # SignatureSource
 
-A minimalistic web page that displays my name, built with HTML, CSS, and JavaScript.
+A minimalistic web page that displays my name with some interactive features, built with HTML, CSS, and JavaScript.
 
 ## Preview
 You can preview the website by visiting the following link:
